@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+imageai = "*"
+opencv-python = "*"
+keras = "*"
+tensorflow = "*"
+
+[dev-packages]
+black = "==19.3b0"
+pylint = "*"
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true
