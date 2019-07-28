@@ -9,7 +9,7 @@ This experiment uses the Open Source Computer Vision Library (OpenCV) to track m
 
 ## Installation
 
-Instal dependencies with Pipenv.
+Install dependencies with Pipenv.
 
 ```bash
 $ pipenv install

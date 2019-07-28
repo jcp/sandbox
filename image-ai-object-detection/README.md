@@ -13,7 +13,7 @@ This experiment tests the `VideoObjectDetection` class within the [ImageAI](http
 
 Install dependencies with Pipenv.
 
-```python
+```bash
 $ pipenv install
 ```
 
@@ -25,7 +25,7 @@ Download pre-trained models and place them in the `assets/models` directory.
 
 Run `detection.py`. Note, this will take awhile.
 
-```python
+```bash
 $ python detection.py
 ```
 
