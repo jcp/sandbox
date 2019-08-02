@@ -1,6 +1,6 @@
 # Multi Object Video Tracking with OpenCV
 
-This experiment uses the Open Source Computer Vision Library (OpenCV) to track multiple objects from a video.
+Explore the Open Source Computer Vision Library (OpenCV) and track multiple objects from a video.
 
 ## Dependencies
 
@@ -15,10 +15,10 @@ Install dependencies with Pipenv.
 $ pipenv install
 ```
 
-Run `track.py`.
+Run `experiment.py`.
 
 ```bash
-$ python track.py
+$ python experiment.py
 ```
 
 ## Results

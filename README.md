@@ -1,3 +1,3 @@
-# Experiments
+# Sandbox
 
-A repository of random experiments.
+A repository filled with random ideas and experiments.

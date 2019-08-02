@@ -1,6 +1,6 @@
 # Video Tracking and Analysis with ImageAI
 
-This experiment tests the `VideoObjectDetection` class within the [ImageAI](http://imageai.org/) deep learning and computer vision library. 
+Experiment with the `VideoObjectDetection` class within the [ImageAI](http://imageai.org/) deep learning and computer vision library. 
 
 ## Dependencies
 
@@ -23,10 +23,10 @@ Download pre-trained models and place them in the `assets/models` directory.
 * [YOLOv3](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5)
 * [TinyYOLOv3](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo-tiny.h5)
 
-Run `detection.py`. Note, this will take awhile.
+Run `experiment.py`. Note, this will take awhile.
 
 ```bash
-$ python detection.py
+$ python experiment.py
 ```
 
 ## Results
