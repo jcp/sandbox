@@ -1,5 +1,7 @@
 # Digit Recognizer with TensorFlow 2.0
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcp/sandbox/blob/master/kaggle-digit-recognizer/digit-recognizer.ipynb)
+
 [Kaggle](https://www.kaggle.com/)'s classic digit recognizer competition using TensorFlow 2.0 and Google Colab.
 
 The most recent state of the art approach achieved a 99.79% accuracy. This implementation achieved a 99.62% accuracy. Further improvements could be made in the following way:
