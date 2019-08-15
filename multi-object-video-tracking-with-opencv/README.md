@@ -1,6 +1,6 @@
 # Multi Object Video Tracking with OpenCV
 
-Explore the Open Source Computer Vision Library (OpenCV) and track multiple objects from a video.
+Multi object tracking with the Open Source Computer Vision (OpenCV) library.
 
 ## Dependencies
 

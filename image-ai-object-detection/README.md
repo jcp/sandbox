@@ -1,6 +1,6 @@
 # Video Tracking and Analysis with ImageAI
 
-Experiment with the `VideoObjectDetection` class within the [ImageAI](http://imageai.org/) deep learning and computer vision library. 
+Video object detection using the `VideoObjectDetection` class within [ImageAI](http://imageai.org/)'s deep learning and computer vision library.
 
 ## Dependencies
 
